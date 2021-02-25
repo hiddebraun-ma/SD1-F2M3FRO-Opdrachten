@@ -1,6 +1,7 @@
 # Duurzaam Huis - Frontend Programming
 
 ## Starten
+
 Om te beginnen accepteer je via deze link de repository:
 
 
@@ -12,13 +13,15 @@ Om te beginnen accepteer je via deze link de repository:
 ---
 
 ## Werwijze
+
 Gebruik deze repository om al je Frontend opdachten in te maken.
 
 De intructie en opdrachten voor Frontend programming vind je op deze website:
-[https://hiddebraun-ma.github.io/F2M3-Frontend/](https://hiddebraun-ma.github.io/F2M3-Frontend/){: target="_blank")
+[https://hiddebraun-ma.github.io/F2M3-Frontend/](https://hiddebraun-ma.github.io/F2M3-Frontend/){: target="_blank"}
 
 ### Wekelijks
-- Volg je de lessen 
+
+- Volg je de lessen
 - Werk je in de lessen ook aan de opdrachten
 - Bekijk je de uitleg in de video's
 - Doe je de code oefeningen en opdrachten

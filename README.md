@@ -3,7 +3,7 @@
 ## Starten
 
 Om te beginnen accepteer je via deze link de repository:
-[https://classroom.github.com/a/xroJfe_D](https://classroom.github.com/a/xroJfe_D){: target="_blank"}
+[https://classroom.github.com/a/xroJfe_D](https://classroom.github.com/a/xroJfe_D)
 
 1. Je kiest je eigen naam.
 2. Daarna wordt er een nieuwe repository gemaakt voor jou persoonlijk.
@@ -17,7 +17,7 @@ Om te beginnen accepteer je via deze link de repository:
 Gebruik deze repository om al je Frontend opdachten in te maken.
 
 De intructie en opdrachten voor Frontend programming vind je op deze website:
-[https://hiddebraun-ma.github.io/F2M3-Frontend/](https://hiddebraun-ma.github.io/F2M3-Frontend/){: target="_blank"}
+[https://hiddebraun-ma.github.io/F2M3-Frontend/](https://hiddebraun-ma.github.io/F2M3-Frontend/)
 
 ### Wekelijks
 

@@ -12,11 +12,12 @@ Om te beginnen accepteer je via deze link de repository:
 
 ---
 
-## Werwijze
+## Werkwijze
 
 Gebruik deze repository om al je Frontend opdachten in te maken.
 
-De intructie en opdrachten voor Frontend programming vind je op deze website:
+De intructie en opdrachten voor Frontend programming vind je op deze website:  
+
 [https://hiddebraun-ma.github.io/F2M3-Frontend/](https://hiddebraun-ma.github.io/F2M3-Frontend/)
 
 ### Wekelijks
